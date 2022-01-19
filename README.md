@@ -1,9 +1,9 @@
 # Solidity
 
-# Hello everyone is reading 
+ Hello everyone is reading 
 
-# Here you can find every audit report about contract on BEP20 or ERC20
+ Here you can find every audit report about contract on BEP20 or ERC20
 
-# If you wanna request an audit from our team please dm @FreddyCryptos on Telegram
+ If you wanna request an audit from our team please dm @FreddyCryptos on Telegram
 
-# Make sure to copy the exact username
+ Make sure to copy the exact username
